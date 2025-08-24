@@ -36,33 +36,6 @@ The dashboard tracks key metrics to measure ER performance, including:
 
 ---
 
-## 📊 Dashboard Pages  
-
-### 🔹 Page 1: Monthly Overview  
-- Shows **patient inflow/outflow trends**  
-- Highlights **average waiting time** across months  
-- Identifies **peak load periods**  
-📸 ![Monthly View](Images/page1_monthly_view.)  
-
-### 🔹 Page 2: Daily & Shift Performance  
-- Breaks down **patient volume by day & shift**  
-- Identifies **peak emergency hours**  
-- Useful for **staff scheduling**  
-📸 ![Daily View](Images/page2_daily_view.png)  
-
-### 🔹 Page 3: Patient Journey Analysis  
-- Maps the **admission → treatment → discharge** process  
-- Detects **bottlenecks causing delays**  
-- Helps improve **patient flow efficiency**  
-📸 ![Patient Journey](Images/page3_patient_journey.png)  
-
-### 🔹 Page 4: Resource Utilization  
-- Tracks **doctor/nurse workload** by shift  
-- Shows **bed occupancy rate**  
-- Identifies **under/over-utilized resources**  
-📸 ![Resource Utilization](Images/page4_resources.png)  
-
----
 
 ## 💡 Key Insights & Recommendations  
 - **Reduce wait times** by reallocating staff during peak hours  
